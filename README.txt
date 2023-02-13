@@ -3,7 +3,7 @@ Disciplina: Linguagens Formais e Autômatos
 
 Lista de Dependências, Tecnologias Utilizadas:
 
-    - Linguagem de Programação: python 3.8.2, apenas
+    - Linguagem de Programação: python 3.8.2
 
     - Editor: Visual Studio Code
 
@@ -40,9 +40,6 @@ Como o programa funciona:
     A função print_quint(): Escreve no terminal a quintupla do automato
 
 Regras para usar o programa:
-    O character 'e' é reservado para representar o Epsilon no programa, recomendavel não usalo como elemento no alfabeto;
+    O character 'e' é reservado para representar o Epsilon no programa, recomendavel não usa-lo como elemento no alfabeto;
 
-    Foi colocado 3 exemplos de automatos no main do programa, cada um representando um AFD, AFN e AFe respectivamente
-
-    
-    
+    Foi colocado 3 exemplos de automatos no main do programa, cada um representando um AFD, AFN e AFe, respectivamente   
