@@ -23,7 +23,7 @@ Lista de Dependências, Tecnologias Utilizadas:
 Para execução do programa:
     - É necessário ter o python instalado em seu sistema, de preferencia a versão utilizada (3.8.2), mas deve funcionar nas demais também.
     
-    -Após a instalação do python, deve-se abrir o CMD, e acessar onde o programa foi salvo, após acessar o diretório certo, basta digita "python main.py", e o programa será executado. Ou apenas abrir a pasta do projeto e clicar duas vezes em  "main.py"
+    -Após a instalação do python, deve-se abrir o CMD, e acessar onde o programa foi salvo, após acessar o diretório certo, basta digita "python codigo_teste.py", e o programa será executado. Ou apenas abrir a pasta do projeto e clicar duas vezes em  "codigo_teste.py"
     
 Como o programa funciona:
 
